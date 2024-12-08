@@ -8,3 +8,5 @@ class SecondScene(Scene):
 #Para ejecutar el ejemplo desde la terminal 
 #manim DosM.py SecondScene -p
 #manim DosM.py SecondScene -
+
+#Revisado
