@@ -7,3 +7,5 @@ class FirstScene(Scene):
         circ = Circle().set_fill(opacity=1)
         self.play(Transform(sq, circ))
         self.wait()  # Asegúrate de que esta línea esté correctamente indentada
+
+#Revisado
